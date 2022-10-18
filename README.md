@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasvakyathodi" alt="anasvakyathodi" /></a> </p>
 
 - 🔭 I’m currently working on [GoHighLevel](https://gohighlevel.com)
- 
-- 🌱 I’m currently learning **Testing Frameworks**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
