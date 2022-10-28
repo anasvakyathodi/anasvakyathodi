@@ -30,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasvakyathodi&show_icons=true&locale=en&layout=compact" alt="anasvakyathodi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasvakyathodi&show_icons=true&locale=en" alt="anasvakyathodi" /></p>
+[![@anasvakyathod1's Holopin board](https://holopin.me/anasvakyathod1)](https://holopin.io/@anasvakyathod1)
