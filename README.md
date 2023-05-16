@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on [GoHighLevel](https://gohighlevel.com)
 
-- 👯 I’m looking to collaborate on **open source projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/anasvakyathodi?tab=repositories](https://github.com/anasvakyathodi?tab=repositories)
-
-- 📝 I regularly write articles on [anasvakyathodi.blogspot.com](anasvakyathodi.blogspot.com)
 
 - 💬 Ask me about **react, vue, nodejs, python, js and other interesting stuffs.**
 
